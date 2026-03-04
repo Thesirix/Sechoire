@@ -1,3 +1,5 @@
+![Accueil](home.png)
+
 # ☀️ Séchoire - Planificateur de Sèche Parfaite
 
 Le **Séchoire** est une application Python interactive conçue pour les passionnés de musculation et de fitness qui souhaitent planifier leur perte de gras avec une précision mathématique. L'objectif est simple : déterminer exactement quand commencer votre régime pour être prêt au pic de la forme pour le début de l'été (le 21 juin).
@@ -17,6 +19,8 @@ L'application repose sur le consensus scientifique en nutrition sportive : pour 
 ### L'objectif "Été"
 
 Pourquoi le 21 juin ? C'est la date symbolique du début de l'été. L'application calcule automatiquement quel est le prochain 21 juin atteignable en fonction de votre poids actuel. Si votre objectif demande 80 semaines, l'app ne vous dira pas de commencer dans le passé, elle calculera l'été de l'année suivante (2027, 2028, etc.).
+
+![Objectif Atteint](done.png)
 
 ## 🛠️ Caractéristiques Techniques
 
@@ -67,5 +71,3 @@ python sechoire.py
 🏋️‍♂️🔥
 
 ---
-# Sechoire
-# Sechoire
