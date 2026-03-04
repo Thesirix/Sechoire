@@ -68,6 +68,4 @@ Ouvrez un terminal dans le dossier du projet et lancez :
 python sechoire.py
 ```
 
-🏋️‍♂️🔥
-
----
+Courage !🏋️‍♂️🔥
